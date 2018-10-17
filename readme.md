@@ -4,7 +4,7 @@
 
 '닉네임_파일명' 파일을 만들어 공부하신 내용을 정리하면 됩니다.
 
-ex) adunstudio_블라블라
+ex) adunstudio_NN. 블라블라
 
 
 
